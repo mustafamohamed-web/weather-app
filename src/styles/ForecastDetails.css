@@ -1,0 +1,10 @@
+.forecast-details {
+  margin-right: auto;
+  margin-left: auto;
+  width: 200px;
+  margin-top: 40px;
+}
+
+.forecast-details_boldText {
+  font-weight: bold;
+}
