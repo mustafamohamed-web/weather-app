@@ -18,13 +18,10 @@ In the project directory, you can run:
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
-<h2>npm test</h2>
-Launches the test runner in the interactive watch mode.
-
 <h2>npm run build</h2>
 Builds the app for production to the build folder.
 
-<h2>If I had more time, I would</h2>:
+<h2>If I had more time, I would :</h2>
 Make some stylistic changes to make the app more appealing
 I would add some more features such as a warning notice that will give you a heads up when the weather conditions fall below a certain temperature.
 Deploy the app via Heroku/Github Pages
