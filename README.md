@@ -27,5 +27,7 @@ I would add some more features such as a warning notice that will give you a hea
 Deploy the app via Heroku/Github Pages
 Weather App Project
 Project built as part of the Manchester Codes bootcamp
+
 Email: m.moham523@gmai.com
+
 Github profile: mustafamohamed-web
