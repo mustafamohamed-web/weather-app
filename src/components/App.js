@@ -45,21 +45,21 @@ const App = () => {
   );
 };
 
-// App.propTypes = {
-//   forecasts: PropTypes.arrayOf(
-//     PropTypes.shape({
-//       date: PropTypes.number,
-//       description: PropTypes.string,
-//       icon: PropTypes.number,
-//       temperature: PropTypes.shape({
-//         max: PropTypes.number,
-//         min: PropTypes.number,
-//       }),
-//     })
-//   ).isRequired,
-//   location: PropTypes.shape({
-//     city: PropTypes.string,
-//     country: PropTypes.string,
-//   }).isRequired,
+// // App.propTypes = {
+// //   forecasts: PropTypes.arrayOf(
+// //     PropTypes.shape({
+// //       date: PropTypes.number,
+// //       description: PropTypes.string,
+// //       icon: PropTypes.number,
+// //       temperature: PropTypes.shape({
+// //         max: PropTypes.number,
+// //         min: PropTypes.number,
+// //       }),
+// //     })
+// //   ).isRequired,
+// //   location: PropTypes.shape({
+// //     city: PropTypes.string,
+// //     country: PropTypes.string,
+// //   }).isRequired,
 // };
 export default App;

@@ -1,8 +1,8 @@
 .forecast-details {
-  margin-right: auto;
-  margin-left: auto;
-  width: 200px;
-  margin-top: 40px;
+  text-align: center;
+  padding: 2rem;
+  letter-spacing: 1px;
+  font-weight: bold;
 }
 
 .forecast-details_boldText {
